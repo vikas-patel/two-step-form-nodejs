@@ -2,6 +2,11 @@
 
 Full stack MongoDB, React, Node and Express app
 
+Error validation: password and confirm password same
+
+TODO: Show backend server error e.g. duplicate email
+TODO: Dockerize
+
 ## Up & Running
 Install dependencies:
 ```
